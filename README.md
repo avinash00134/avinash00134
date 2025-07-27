@@ -98,9 +98,9 @@ I'm a **results-driven AI/ML engineer** with **2.5+ years** of experience in des
 
 ### 🗄️ **Azure Data & Storage Services**
 ![Azure SQL Database](https://img.shields.io/badge/Azure%20SQL%20Database-0078D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Azure Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-00BFFF?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-1E90FF?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### 🔧 **Azure MLOps & DevOps**
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
