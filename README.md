@@ -280,7 +280,3 @@ Deep diving into cutting-edge AI technologies:
 🚀 **Mission**: Building AI that feels less like technology and more like a natural extension of human capability.
 
 ---
-
-⭐ If you find my work interesting, star my repositories and let's build the future of AI together!
-
-![Snake animation](https://raw.githubusercontent.com/avinash00134/avinash00134/output/github-contribution-grid-snake.svg)
