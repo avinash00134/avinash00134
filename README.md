@@ -26,7 +26,7 @@
 
 <img align="right" alt="AI Development" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-I'm a **results-driven AI/ML Developer** with **2.5+ years** of experience in designing, developing, and deploying intelligent solutions. My passion lies in creating AI systems that bridge the gap between complex technology and human interaction.
+I'm a **results-driven AI/ML engineer** with **2.5+ years** of experience in designing, developing, and deploying intelligent solutions. My passion lies in creating AI systems that bridge the gap between complex technology and human interaction.
 
 ### 🎯 **What I Do:**
 - 🤖 **LLM Engineering**: Building production-ready language model applications
