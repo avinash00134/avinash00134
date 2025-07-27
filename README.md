@@ -64,6 +64,7 @@ I'm a **results-driven AI/ML engineer** with **2.5+ years** of experience in des
 
 ### 🧠 **NLP & LLMs**
 ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-3ACBE8?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/🦜%20LangChain-1C3C3C?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge)
@@ -74,6 +75,7 @@ I'm a **results-driven AI/ML engineer** with **2.5+ years** of experience in des
 ### 🌐 **Web Development & APIs**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -84,6 +86,7 @@ I'm a **results-driven AI/ML engineer** with **2.5+ years** of experience in des
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00B8D9?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### ☁️ **Cloud & Deployment**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -104,7 +107,6 @@ I'm a **results-driven AI/ML engineer** with **2.5+ years** of experience in des
 ![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-2560E0?style=for-the-badge&logo=azure-pipelines&logoColor=white)
 ![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 ### 🔧 **MLOps & Tools**
