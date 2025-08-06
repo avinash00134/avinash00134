@@ -42,7 +42,7 @@ I'm a **results-driven AI/ML engineer** with **2.5+ years** of experience in des
 
 ## 🛠️ Tech Arsenal
 
-<summary>🔥 <strong>Click to expand my complete tech stack!</strong></summary>
+<summary>🔥 <strong> My complete tech stack!</strong></summary>
 
 ### 💻 **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
