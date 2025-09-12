@@ -8,7 +8,7 @@
 
 <div align="center">
 
-📍 **Mumbai, India** | 🏢 **Freelancer** | 🚀 **AI Innovation Enthusiast**
+📍 **India** | 🏢 **Freelancer** | 🚀 **AI Innovation Enthusiast**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-sharma-782460227/)
