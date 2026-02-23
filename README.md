@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Engineer;NLP+Specialist+%26+Open+Source+Enthusiast;Building+Intelligent+Human-AI+Systems;2.5%2B+Years+of+AI%2FML+Experience)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Engineer;NLP+Specialist+%26+Open+Source+Enthusiast;Building+Intelligent+Human-AI+Systems;3%2B+Years+of+AI%2FML+Experience)
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <img align="right" alt="AI Development" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-I'm a **results-driven AI/ML engineer** with **2.5+ years** of experience in designing, developing, and deploying intelligent solutions. My passion lies in creating AI systems that bridge the gap between complex technology and human interaction.
+I'm a **results-driven AI/ML engineer** with **3+ years** of experience in designing, developing, and deploying intelligent solutions. My passion lies in creating AI systems that bridge the gap between complex technology and human interaction.
 
 ### 🎯 **What I Do:**
 - 🤖 **LLM Engineering**: Building production-ready language model applications
